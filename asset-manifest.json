@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.de986118.chunk.css",
-    "main.js": "/static/js/main.f8b7916c.chunk.js",
-    "main.js.map": "/static/js/main.f8b7916c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8e52bfe4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8e52bfe4.js.map",
-    "static/js/2.cbd23faf.chunk.js": "/static/js/2.cbd23faf.chunk.js",
-    "static/js/2.cbd23faf.chunk.js.map": "/static/js/2.cbd23faf.chunk.js.map",
-    "static/js/3.dcf2500c.chunk.js": "/static/js/3.dcf2500c.chunk.js",
-    "static/js/3.dcf2500c.chunk.js.map": "/static/js/3.dcf2500c.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.de986118.chunk.css.map": "/static/css/main.de986118.chunk.css.map",
-    "static/js/2.cbd23faf.chunk.js.LICENSE.txt": "/static/js/2.cbd23faf.chunk.js.LICENSE.txt"
+    "main.css": "https://abhisheksharma32.github.io/foodylink/static/css/main.de986118.chunk.css",
+    "main.js": "https://abhisheksharma32.github.io/foodylink/static/js/main.f8b7916c.chunk.js",
+    "main.js.map": "https://abhisheksharma32.github.io/foodylink/static/js/main.f8b7916c.chunk.js.map",
+    "runtime-main.js": "https://abhisheksharma32.github.io/foodylink/static/js/runtime-main.f96d3399.js",
+    "runtime-main.js.map": "https://abhisheksharma32.github.io/foodylink/static/js/runtime-main.f96d3399.js.map",
+    "static/js/2.cbd23faf.chunk.js": "https://abhisheksharma32.github.io/foodylink/static/js/2.cbd23faf.chunk.js",
+    "static/js/2.cbd23faf.chunk.js.map": "https://abhisheksharma32.github.io/foodylink/static/js/2.cbd23faf.chunk.js.map",
+    "static/js/3.dcf2500c.chunk.js": "https://abhisheksharma32.github.io/foodylink/static/js/3.dcf2500c.chunk.js",
+    "static/js/3.dcf2500c.chunk.js.map": "https://abhisheksharma32.github.io/foodylink/static/js/3.dcf2500c.chunk.js.map",
+    "index.html": "https://abhisheksharma32.github.io/foodylink/index.html",
+    "static/css/main.de986118.chunk.css.map": "https://abhisheksharma32.github.io/foodylink/static/css/main.de986118.chunk.css.map",
+    "static/js/2.cbd23faf.chunk.js.LICENSE.txt": "https://abhisheksharma32.github.io/foodylink/static/js/2.cbd23faf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8e52bfe4.js",
+    "static/js/runtime-main.f96d3399.js",
     "static/js/2.cbd23faf.chunk.js",
     "static/css/main.de986118.chunk.css",
     "static/js/main.f8b7916c.chunk.js"
